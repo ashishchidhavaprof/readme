@@ -371,7 +371,6 @@ Access your [Sensfrx Dashboard](https://sensfrx.ai)
 - **Version:** 1.0.3
 - **Repository:** Maven Central
 - **License:** Apache License 2.0
-- **Project URL:** [https://sensfrx.ai](https://sensfrx.ai)
 
 ---
 
